@@ -1,3 +1,3 @@
 # pruebaspresencial
 Repositorio creado en clase de entornos
-Lo puedo modificar como y cuando quiera
+Lo puedo modificar cómo y cuándo quiera
